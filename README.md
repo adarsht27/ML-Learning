@@ -4,7 +4,7 @@
 This is my repository for learning ML and Python in the process. 
 
 ## Why I built this
-I built it because even though AI tools are making it easier to generate code, I believe a great deal still lies with understanding besics, how to read program, what to do with messy data, figuring connections and foldings within real-world problems. And procrastination and not taking action does not help anyone to grow.
+I built it because even though AI tools are making it easier to generate code, I believe a great deal still lies with understanding basics, how to read program, what to do with messy data, figuring connections and foldings within real-world problems. And procrastination and not taking action does not help anyone to grow.
 
 ## Data source
 I will use it for woring on real data with colab and Keggle and occasionally might use some data from Governments, Public institutions and other interesting places.
