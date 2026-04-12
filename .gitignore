@@ -1,0 +1,15 @@
+# Python/uv environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep folders, ignore contents)
+data/raw/
+data/processed/
+
+# OS / editor
+.DS_Store
+.vscode/
