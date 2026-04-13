@@ -1,4 +1,4 @@
-﻿# 01 Housing Regression (OLS -> Ridge/Lasso)
+﻿# 05 Fairness Audit Capstone
 
 ## Policy question
 (Write 1â€“2 lines.)

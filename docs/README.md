@@ -1,5 +1,4 @@
 # docs
 
-This folder contains exported HTML reports for GitHub Pages.
-
-After exporting a notebook to HTML, copy it here (or export directly here).
+This folder hosts exported HTML reports for GitHub Pages.
+Export project HTML here (or copy final HTML here).

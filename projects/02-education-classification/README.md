@@ -1,4 +1,4 @@
-﻿# 01 Housing Regression (OLS -> Ridge/Lasso)
+﻿# 02 Education Classification (Logistic / kNN)
 
 ## Policy question
 (Write 1â€“2 lines.)

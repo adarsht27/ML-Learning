@@ -1,4 +1,4 @@
-﻿# 01 Housing Regression (OLS -> Ridge/Lasso)
+﻿# 04 Diagnostics + Thresholding
 
 ## Policy question
 (Write 1â€“2 lines.)

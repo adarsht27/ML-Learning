@@ -1,0 +1,19 @@
+﻿# Report (draft)
+
+## Executive summary
+...
+
+## Data & preprocessing
+...
+
+## Modeling
+...
+
+## Evaluation
+...
+
+## Policy implications
+...
+
+## Limitations
+...

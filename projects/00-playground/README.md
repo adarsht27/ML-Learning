@@ -1,4 +1,4 @@
-﻿# 01 Housing Regression (OLS -> Ridge/Lasso)
+﻿# 00 Playground / Scratchpad
 
 ## Policy question
 (Write 1â€“2 lines.)
